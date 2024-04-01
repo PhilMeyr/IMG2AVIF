@@ -10,7 +10,7 @@ import concurrent.futures
 # Files & Variables
 input_directory_path = os.path.join('input')
 output_directory_path = os.path.join('output')
-max_workers = 10
+max_workers = 5
 
 def extract_exif(file_path):
     with open(file_path, 'rb') as f:

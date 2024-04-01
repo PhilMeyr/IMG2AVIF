@@ -5,6 +5,10 @@ The script tells you if EXIF data have ben saved, or not.
 
 HOWTO
 ------
-1. Install dependencies (`pip install ...`)
+1. Install dependencies
+>`pipenv install`
+
 2. Place all your images to convert into an ./input/ folder
-3. Run `python main.py`
+
+3. Run 
+> `pipenv run main.py`
