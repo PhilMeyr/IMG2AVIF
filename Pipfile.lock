@@ -27,11 +27,12 @@
         },
         "exifread": {
             "hashes": [
-                "sha256:0ac5a364169dbdf2bd62f94f5c073970ab6694a3166177f5e448b10c943e2ca4",
-                "sha256:2c5c59ef03b3bbee75b82b82d2498006b3c13509f35c9a76c7552faff73fa2d5"
+                "sha256:9f998f80d3062741c976dfc4fd033424bc40932937994e4d2181eb70c4b6aedd",
+                "sha256:e5426ce2857423ad401e575ea9d159dc97449dc041fb6e61b35109caea72c311"
             ],
             "index": "pypi",
-            "version": "==3.0.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==3.5.1"
         },
         "numpy": {
             "hashes": [
